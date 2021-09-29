@@ -4,7 +4,7 @@ First of Five Projects to succeed in Responsive Web Design Certification
 
 This project is a fork of FCC's sample webpage: https://codepen.io/freeCodeCamp/full/zNqgVx .
 
-But that is only to get the idea about design, I've fully worked on html & CSS code this site. 
+**But that is only to get the idea about design, I've fully worked on html & CSS code this site. 
 
 I have tried best and hope that all _user stories_ tests get passed.
 
