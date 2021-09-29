@@ -8,4 +8,4 @@ This project is a fork of FCC's sample webpage: https://codepen.io/freeCodeCamp/
 
 I have tried best and hope that all _user stories_ tests get passed.
 
-All the material of this website has been available in copyright-free (in public domain).
+All the material of this website has been available in in public domain i.e. copyright-free.
