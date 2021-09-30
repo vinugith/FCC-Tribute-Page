@@ -1,6 +1,6 @@
 # FCC-Tribute-Page
 
-First of Five Projects to succeed in Responsive Web Design Certification
+First of Five Projects to succeed in FCC Responsive Web Design Certification
 
 This project is a fork of FCC's sample webpage: https://codepen.io/freeCodeCamp/full/zNqgVx .
 
